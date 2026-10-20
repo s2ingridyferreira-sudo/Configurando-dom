@@ -1,0 +1,13 @@
+body {
+  display: grid;
+  place-items: center;
+  margin: 0;
+  background-color: rgb(174, 188, 232);
+  font-size: 20px;
+}
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+button {
+    background-color: blue;
+}
